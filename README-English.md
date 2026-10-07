@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Notes
 
-[中文说明](README.md)
+[中文](README.md) | [English](README-English.md)
 
 This repository organizes course materials about data structures and algorithms. The content is based primarily on the PDF materials in `docs/` and covers data structure fundamentals, linear structures, algorithm complexity, searching algorithms, and sorting algorithms.
 

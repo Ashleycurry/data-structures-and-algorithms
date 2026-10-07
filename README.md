@@ -1,6 +1,6 @@
 # 数据结构与算法学习笔记
 
-[English](README-English.md)
+[中文](README.md) | [English](README-English.md)
 
 本仓库用于整理数据结构与算法课程资料，内容以 `docs/` 目录中的 PDF 课件为主，覆盖数据结构基础、线性结构、算法复杂度、查找算法和排序算法。
 
